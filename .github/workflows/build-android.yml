@@ -1,0 +1,1 @@
+Name Build Android. on, workflow underscore dispatch. Jobs build, runs on Ubuntu latest. Steps use actions slash checkout at v4, then a run step that just echoes placeholders for building your Unity project.
